@@ -1,0 +1,1 @@
+# when-is-a-good-ideia-to-use-LR
