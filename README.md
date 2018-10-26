@@ -1,1 +1,1 @@
-# when-is-a-good-ideia-to-use-LR
+[When is a good idea to use Linear Regression? ](https://www.linkedin.com/pulse/when-good-idea-use-linear-regression-jhonatan-silva/).
